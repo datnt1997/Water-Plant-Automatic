@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\animator\\enter_from_right.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\animator\\enter_from_right.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\animator\\exit_to_right.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\animator\\exit_to_right.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\animator\\enter_from_left.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\animator\\enter_from_left.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\animator\\exit_to_left.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\animator\\exit_to_left.xml"
+    }
+]
