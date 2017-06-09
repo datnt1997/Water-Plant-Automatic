@@ -132,8 +132,10 @@ void sendData() {
 
   if (bumperStatus==1){
     digitalWrite(T_RELAY_PIN, HIGH);
+    digitalWrite(LED_YEWLOW_PIN, HIGH);
   }else{
     digitalWrite(T_RELAY_PIN, LOW);
+     digitalWrite(LED_YEWLOW_PIN, LOW);
   }
 
   //lấy giá trị sensor
