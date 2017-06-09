@@ -17,10 +17,10 @@ SoftwareSerial mySerial(RX, TX, false, 256);
 SerialCommand sCmd(mySerial); // Khai báo biến sử dụng thư viện Serial Command
  
 SocketIOClient client;
-const char* ssid = "Thangthu";          //Tên mạng Wifi mà Socket server của bạn đang kết nối
-const char* password = "vanxinhf1";  //Pass mạng wifi ahihi, anh em rãnh thì share pass cho mình với.
+const char* ssid = "Huu Hanh";          //Tên mạng Wifi mà Socket server của bạn đang kết nối
+const char* password = "Ngocanh98";  //Pass mạng wifi ahihi, anh em rãnh thì share pass cho mình với.
  
-char host[] = "192.168.1.107";  //Địa chỉ IP dịch vụ, hãy thay đổi nó theo địa chỉ IP Socket server của bạn.
+char host[] = "192.168.1.8";  //Địa chỉ IP dịch vụ, hãy thay đổi nó theo địa chỉ IP Socket server của bạn.
 int port = 3484;                  //Cổng dịch vụ socket server do chúng ta tạo!
  
 //từ khóa extern: dùng để #include các biến toàn cục ở một số thư viện khác. Trong thư viện SocketIOClient có hai biến toàn cục
@@ -67,7 +67,7 @@ void setup(){
 }
  
 void loop(){
- 
+    
     //Khi bắt được bất kỳ sự kiện nào thì chúng ta có hai tham số:
     //  +RID: Tên sự kiện
     //  +RFull: Danh sách tham số được nén thành chuỗi JSON!
@@ -92,12 +92,13 @@ void loop(){
     //Kết nối thất bại gửi xuống cho Arduino tắt máy bơm
     if (!client.connected()) {
 
-      //in ra serial cho Arduino
+        //in ra serial cho Arduino
         mySerial.print("Request");
         mySerial.print('\r');
         mySerial.print('"BumperEnable":"0"');
         mySerial.print('\r');
-      Serial.println("Kết nối thất bại!");
+        Serial.println("Kết nối thất bại!");
+        client.reconnect(host, port);
     }
  
     sCmd.readSerial();
