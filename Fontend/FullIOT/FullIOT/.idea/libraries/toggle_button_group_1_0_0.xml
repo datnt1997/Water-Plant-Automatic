@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="toggle-button-group-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/ad963ed1b6fb035aec8d372cd0326c601a3519ea/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ad963ed1b6fb035aec8d372cd0326c601a3519ea/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nex3z/toggle-button-group/1.0.0/3fa1c3d6493dde8b8b424238fdcb1e267d229da4/toggle-button-group-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

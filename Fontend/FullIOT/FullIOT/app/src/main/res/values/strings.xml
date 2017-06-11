@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">WPA</string>
+
+    <!-- Log in -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="wrongUsernameOrPass">Wrong Username or Password! Please try again.</string>
+    <string name="login">Login</string>
+    <string name="reset">Reset</string>
+    <string name="errorUsername">Please insert username!</string>
+    <string name="errorPassword">Please insert password!</string>
+
+    <!-- Common -->
+    <string name="setting">Setting</string>
+    <string name="save">Save</string>
+    <string name="humidity">Humidity</string>
+    <string name="planType">Plan Type: </string>
+    <string name="age">Age: </string>
+    <string name="suitableHumidity">Suitable Humidity: </string>
+    <string name="enableSetting">Enable Setting</string>
+    <string name="byHumidity">By Humidity</string>
+    <string name="bySchedule">By Schedule</string>
+    <string name="startWhen">Start when: </string>
+    <string name="stopWhen">Stop when: </string>
+    <string name="persent">%</string>
+    <string name="repeatEvery">Repeat every </string>
+    <string name="week">week(s)</string>
+    <string name="stopUntil">Stop until: </string>
+    <string name="startTime">Start Time: </string>
+    <string name="stopTime">Stop Time: </string>
+    <string name="dialog_cancel">Cancle</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="areYouSure">Are you sure?</string>
+
+    <!-- Date/Time -->
+    <string name="monday">M</string>
+    <string name="tueday">T</string>
+    <string name="wednesday">W</string>
+    <string name="thurday">T</string>
+    <string name="friday">F</string>
+    <string name="saturday">S</string>
+    <string name="sunday">S</string>
+
+    <!-- Setting -->
+    <string name="pushNotification">Push Notification</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- navigation drawer item labels  -->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_account">Account</string>
+    <string name="nav_item_library">Library</string>
+    <string name="nav_item_logout">Log out</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_account</item>
+        <item>@string/nav_item_library</item>
+        <item>@string/nav_item_logout</item>
+    </string-array>
+
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="title_library">Library</string>
+
+    <!-- Watering -->
+    <string name="automatic">Automatic</string>
+
+    <!-- Better Picker -->
+    <string name="month_hint">Month (zero-indexed int)</string>
+    <string name="date_hint">Date (int)</string>
+    <string name="year_hint">Year (int)</string>
+    <string name="set">Set</string>
+
+    <string name="no_value">--</string>
+    <string name="calendar_date_picker_set">Set Date</string>
+    <string name="calendar_date_picker_result_values">Year: %1$s\nMonth: %2$s\nDay: %3$s</string>
+    <string name="radial_time_picker">Set Time</string>
+    <string name="radial_time_picker_result_value">%1$d:%2$d</string>
+    <string name="date_picker_set">Set Date</string>
+    <string name="date_picker_result_value">Year: %1$s\nMonth: %2$s\nDay: %3$s</string>
+    <string name="expiration_picker_set">Set Expiration</string>
+    <string name="expiration_picker_result_value">%1$s/%2$s</string>
+    <string name="hms_picker_set">Set HMS</string>
+    <string name="hms_picker_result_value_multiline">Hours: %1$s\nMinutes: %2$s\nSeconds: %3$s\nNegative : %4$b</string>
+    <string name="hms_picker_result_value_oneline">H:%1$s, M:%2$s, S:%3$s</string>
+    <string name="time_picker_set">Set Time</string>
+    <string name="time_picker_result_value">%1$s:%2$s</string>
+    <string name="timezone_picker_set">Set Time Zone</string>
+    <string name="recurrence_picker_set">Set Recurrence</string>
+    <string name="number_picker_set">Set Number</string>
+    <string name="number_picker_result_value">Number: %1$s\nDecimal: %2$s\nIs negative: %3$b\nFull number: %4$s</string>
+    <string name="colorprimary_text">Here is colorPrimary</string>
+
+    <string name="button_label_custom_ok">Okay</string>
+    <string name="button_label_custom_cancel">Nop</string>
+    <string name="dialog_dismissed">Dialog dismissed</string>
+
+
+</resources>

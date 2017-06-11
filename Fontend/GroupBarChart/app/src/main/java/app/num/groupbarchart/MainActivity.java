@@ -29,9 +29,6 @@ public class MainActivity extends AppCompatActivity {
 
     BarChart barChart;
 
-    float x;
-    float y;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,18 +39,13 @@ public class MainActivity extends AppCompatActivity {
         barChart.setBackgroundColor(Color.TRANSPARENT);
 
         Description description = new Description();
-        description.setText("2017");
-//        MPPointF index = description.getPosition();
-//        description.setTextColor(Color.BLACK);
+        description.setText("");
+        description.setTextColor(parseColor("#adadad"));
         barChart.setDescription(description);
 
         ArrayList<BarEntry> group1 = new ArrayList<>();
-        group1.add(new BarEntry(4f, 8));
+        group1.add(new BarEntry(4f, 7.5f));
         group1.add(new BarEntry(6f, 1));
-//        group1.add(new BarEntry(8f, 2));
-//        group1.add(new BarEntry(10f, 3));
-//        group1.add(new BarEntry(12f, 4));
-//        group1.add(new BarEntry(14f, 5));
 
 
         BarDataSet barDataSet1;
@@ -67,9 +59,10 @@ public class MainActivity extends AppCompatActivity {
             barDataSet1 = new BarDataSet(group1, "The year 2017");
 
             barDataSet1.setDrawIcons(false);
+            barDataSet1.setDrawValues(false);
 
 
-            barDataSet1.setColors(parseColor("#96d78d"));
+            barDataSet1.setColors(parseColor("#CC9ddeed"));
 
             ArrayList<IBarDataSet> dataSets = new ArrayList<IBarDataSet>();
             dataSets.add(barDataSet1);
@@ -81,11 +74,14 @@ public class MainActivity extends AppCompatActivity {
             barChart.setData(data);
         }
 
-
+        //show animation
         barChart.animateXY(2000, 2000);
         barChart.invalidate();
 
-        IAxisValueFormatter xAxisFormatter = new DayAxisValueFormatter(barChart);
+        //hide legend
+        barChart.getLegend().setEnabled(false);
+
+        IAxisValueFormatter xAxisFormatter = new MonthAxisValueFormatter(barChart);
 
 
         XAxis xAxis = barChart.getXAxis();
@@ -96,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
         xAxis.setTextColor(Color.BLACK);
         xAxis.setDrawGridLines(false);
         xAxis.setDrawAxisLine(true);
+        xAxis.setTextColor(parseColor("#39b54a"));
         xAxis.setValueFormatter(xAxisFormatter);
 
 
@@ -106,6 +103,8 @@ public class MainActivity extends AppCompatActivity {
         left.setAxisMinimum(0f);
         left.setDrawAxisLine(false); // no axis line
         left.setDrawGridLines(true);
+        left.setTextColor(parseColor("#adadad"));
+        left.setGridColor(parseColor("#39b54a"));
         barChart.getAxisRight().setEnabled(false); // no right axis
         left.setValueFormatter(custom);
 

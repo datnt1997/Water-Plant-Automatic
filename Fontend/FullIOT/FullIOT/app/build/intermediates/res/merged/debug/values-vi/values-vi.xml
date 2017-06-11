@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_account</item>
+        <item>@string/nav_item_library</item>
+        <item>@string/nav_item_logout</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Điều hướng về trang chủ"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Điều hướng lên trên"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Thêm tùy chọn"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"TẮT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BẬT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Tìm kiếm truy vấn"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Chia sẻ với %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="age">Tuổi: </string>
+    <string name="app_name">WPA</string>
+    <string name="automatic">Chế độ tự động</string>
+    <string name="button_label_custom_cancel">Nop</string>
+    <string name="button_label_custom_ok">Okay</string>
+    <string name="byHumidity">Theo độ ẩm</string>
+    <string name="bySchedule">Theo lịch trình</string>
+    <string name="calendar_date_picker_result_values">Year: %1$s\nMonth: %2$s\nDay: %3$s</string>
+    <string name="calendar_date_picker_set">Set Date</string>
+    <string name="colorprimary_text">Here is colorPrimary</string>
+    <string name="date_hint">Date (int)</string>
+    <string name="date_picker_result_value">Year: %1$s\nMonth: %2$s\nDay: %3$s</string>
+    <string name="date_picker_set">Set Date</string>
+    <string name="dialog_cancel">Hủy bỏ</string>
+    <string name="dialog_dismissed">Dialog dismissed</string>
+    <string name="drawer_close">Đóng</string>
+    <string name="drawer_open">Mở</string>
+    <string name="enableSetting">Cho phép cài đặt</string>
+    <string name="errorPassword">Vui lòng điền mật khẩu!</string>
+    <string name="errorUsername">Vui lòng điền tên đăng nhập!</string>
+    <string name="expiration_picker_result_value">%1$s/%2$s</string>
+    <string name="expiration_picker_set">Set Expiration</string>
+    <string name="friday">6</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hms_picker_result_value_multiline">Hours: %1$s\nMinutes: %2$s\nSeconds: %3$s\nNegative : %4$b</string>
+    <string name="hms_picker_result_value_oneline">H:%1$s, M:%2$s, S:%3$s</string>
+    <string name="hms_picker_set">Set HMS</string>
+    <string name="humidity">Độ ẩm</string>
+    <string name="login">Đăng nhập</string>
+    <string name="monday">2</string>
+    <string name="month_hint">Month (zero-indexed int)</string>
+    <string name="nav_item_account">Tài khoản</string>
+    <string name="nav_item_home">Trang chủ</string>
+    <string name="nav_item_library">Thư viện</string>
+    <string name="nav_item_logout">Đăng xuất</string>
+    <string name="no_value">--</string>
+    <string name="number_picker_result_value">Number: %1$s\nDecimal: %2$s\nIs negative: %3$b\nFull number: %4$s</string>
+    <string name="number_picker_set">Set Number</string>
+    <string name="password">Mật khẩu</string>
+    <string name="persent">%</string>
+    <string name="planType">Loại cây: </string>
+    <string name="pushNotification">Hiển thị thông báo</string>
+    <string name="radial_time_picker">Set Time</string>
+    <string name="radial_time_picker_result_value">%1$d:%2$d</string>
+    <string name="recurrence_picker_set">Set Recurrence</string>
+    <string name="reset">Làm lại</string>
+    <string name="saturday">7</string>
+    <string name="save">Lưu</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Tìm kiếm"</string>
+    <string name="set">Thiết lập</string>
+    <string name="setting">Cài đặt</string>
+    <string name="startTime">Thời gian bắt đầu: </string>
+    <string name="startWhen">Bắt đầu khi: </string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stopTime">Thời gian kết thúc: </string>
+    <string name="stopWhen">Kết thúc khi: </string>
+    <string name="suitableHumidity">Độ ẩm thích hợp: </string>
+    <string name="sunday">CN</string>
+    <string name="thurday">5</string>
+    <string name="time_picker_result_value">%1$s:%2$s</string>
+    <string name="time_picker_set">Set Time</string>
+    <string name="timezone_picker_set">Set Time Zone</string>
+    <string name="title_account">Tài khoản</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_library">Thư viện</string>
+    <string name="tueday">3</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="wednesday">4</string>
+    <string name="wrongUsernameOrPass">Sai tên đăng nhập hoặc mật khẩu! Vui lòng thử lại.</string>
+    <string name="year_hint">Year (int)</string>
+</resources>

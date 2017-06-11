@@ -1,0 +1,1326 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_manual.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\fragment_manual.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_text_with_header.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_text_with_header.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_library.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_library.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\number_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_selected_date.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_label_button.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\ad963ed1b6fb035aec8d372cd0326c601a3519ea\\output\\res\\layout\\view_label_button.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_selected_date.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_right_drawable.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_right_drawable.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_manual.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_manual.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_dialog_layout.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\number_picker_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\automatic_setting.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\automatic_setting.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plan_card.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\plan_card.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_time_zone_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\empty_time_zone_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker_freq_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\three_keys_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_right_drawable.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_marker_button.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\ad963ed1b6fb035aec8d372cd0326c601a3519ea\\output\\res\\layout\\view_marker_button.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_header_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_date_picker_header_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_label_button.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\443309915a2694df76c2351a798703977a805c49\\output\\res\\layout\\view_label_button.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_right_drawable.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\date_picker_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_zone_filter_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\time_zone_filter_item.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_library.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\fragment_library.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\three_keys_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_dialog.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_row.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\nav_drawer_row.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_right_drawable.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_right_drawable.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_dialog.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hms_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\hms_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_year_label_text_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_year_label_text_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\date_picker_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\automatic_setting.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\automatic_setting.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_time_zone_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\empty_time_zone_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_leftright.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timezonepickerview.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\timezonepickerview.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expiration_picker_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\expiration_picker_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_zone_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\time_zone_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_year_label_text_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_year_label_text_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plan_card.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\plan_card.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plan_info.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_plan_info.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\number_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hms_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\hms_picker_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker_end_text.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_right_drawable.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\time_picker_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_selected_date.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\calendar_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_text_with_header.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\keyboard_text_with_header.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_header_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_date_picker_header_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_with_header.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\keyboard_with_header.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_zone_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\time_zone_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\time_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_text_with_header.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_text_with_header.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_watering.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_watering.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_text.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\three_keys_view_text.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sv_slide_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\bd9224a147346519a3303e84aa53c034a4b6a0b3\\output\\res\\layout\\sv_slide_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hms_picker_dialog.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\hms_picker_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_dialog.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_label_button.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\443309915a2694df76c2351a798703977a805c49\\output\\res\\layout\\view_label_button.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker_freq_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_watering.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\fragment_watering.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_dialog.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\number_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_text.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\keyboard_text.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker_end_text.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plan_info.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_plan_info.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_automatic.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\fragment_automatic.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expiration_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\expiration_picker_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker_freq_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker_end_text.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_zone_filter_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\time_zone_filter_item.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_right_drawable_with_header.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\keyboard_right_drawable_with_header.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_right_drawable_with_header.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_right_drawable_with_header.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expiration_picker_dialog.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\expiration_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_view_animator.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_row.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\nav_drawer_row.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_text.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_text.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hms_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\hms_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_info.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radial_time_picker_dialog.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_info.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_zone_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\time_zone_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_automatic.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_automatic.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_watering.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_watering.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radial_time_header_label.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\radial_time_header_label.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_year_label_text_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\calendar_year_label_text_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_info.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_view_animator.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_right_drawable_with_header.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_right_drawable_with_header.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_ok_cancel_buttons.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\layout_ok_cancel_buttons.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\number_picker_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expiration_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\expiration_picker_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\number_picker_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_library.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_library.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radial_time_header_label.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\radial_time_header_label.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radial_time_header_label.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\radial_time_header_label.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_header_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\calendar_date_picker_header_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expiration_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\expiration_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hms_picker_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\hms_picker_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plan_card.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\plan_card.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_ok_cancel_buttons.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\layout_ok_cancel_buttons.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_row.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\nav_drawer_row.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timezonepickerview.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\timezonepickerview.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plan_info.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\activity_plan_info.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_right_drawable.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\keyboard_right_drawable.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\recurrencepicker.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\date_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_leftright.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_text.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\three_keys_view_text.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\number_picker_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_with_header.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_with_header.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\2250a4d3fb1f43faae3f52fc4a75d97856b3576c\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\recurrencepicker.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_view_animator.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\calendar_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\recurrencepicker.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\time_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hms_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\hms_picker_view.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\automatic_setting.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\automatic_setting.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_leftright.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\206d3b1c0ec4f51e36e1200d045d1dc6ab0bf0e8\\output\\res\\layout\\three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radial_time_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_manual.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_manual.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_text.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_text.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_time_zone_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\empty_time_zone_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timezonepickerview.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\timezonepickerview.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\datnt\\.android\\build-cache\\1c25338055c3123294d5bf1ac3010ac7101cf7aa\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expiration_picker_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\expiration_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_text.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\three_keys_view_text.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_zone_filter_item.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\time_zone_filter_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_marker_button.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\443309915a2694df76c2351a798703977a805c49\\output\\res\\layout\\view_marker_button.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\three_keys_view.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\a7ccb9f2e5540f059e7ea00bed6f873bc74e5a63\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_with_header.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\keyboard_with_header.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_automatic.xml",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\fragment_automatic.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_ok_cancel_buttons.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\layout_ok_cancel_buttons.xml"
+    },
+    {
+        "merged": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_dialog_layout.xml",
+        "source": "E:\\FPT Polytechnic\\Poly Creation\\Font End\\FullIOT\\FullIOT\\app\\src\\main\\res\\layout\\number_picker_dialog_layout.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_marker_button.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\443309915a2694df76c2351a798703977a805c49\\output\\res\\layout\\view_marker_button.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_dialog_layout.xml",
+        "source": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\src\\main\\res\\layout\\number_picker_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\51f97e189eccd2d599c8948dcceb0587eb095aec\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radial_time_picker_dialog.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d22022393484121dcac27e3e4f337b5c80f0bdcd\\output\\res\\layout\\radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\88ed8bcf061138723fab68b1bbf64b7636f017e9\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "V:\\Workspace\\AndroidStudioProjects\\FullIOT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\quyen\\.android\\build-cache\\d875f899c51fe95fbe327b629e88c58cdaac958b\\output\\res\\layout\\design_navigation_item_separator.xml"
+    }
+]
