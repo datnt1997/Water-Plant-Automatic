@@ -10,12 +10,27 @@ SoftwareSerial mySerial = SoftwareSerial(RX, TX);
 SerialCommand sCmd(mySerial); // Khai báo biến sử dụng thư viện Serial Command
 int const SENSOR_MH_D_PIN = 4;
 int const SENSOR_MH_A_PIN = A0;
-int const T_RELAY_PIN = 2;
+
+volatile int flow_frequency; // Đo xung cảm biến lưu lượng
+unsigned int l_hour; // Tính toán số lít/giờ
+unsigned char flowsensor = 2; // Cảm biến nối với chân 2
+unsigned long currentTime;
+unsigned long cloopTime;
+
+//hàm ngắt
+void flow (){
+   flow_frequency++;
+}
+
+
+int const T_RELAY_PIN = 7;
+
 
 int const TIME_TO_GET_SAMPLE = 5000; //5s
 int const SAMPLE_TIME = 500; //0.5 s
 
 int const LED_PIN = 13;
+
 
 int const LED_BLUE_PIN = 10;
 int const LED_YEWLOW_PIN = 9;
@@ -30,6 +45,11 @@ int bumpStatus = 0;
 int waterStatus = 0;// -1: less water, 0: enough water,  +1 : more water
 
 void setup() {
+
+  pinMode(SENSOR_MH_D_PIN, INPUT);
+  pinMode(flowsensor, INPUT);
+  digitalWrite(flowsensor, HIGH); // Optional Internal Pull-Up
+    
   //Khởi tạo Serial ở baudrate 57600 để debug ở serial monitor
   Serial.begin(57600);
 
@@ -40,7 +60,9 @@ void setup() {
   sCmd.addCommand("Request",   sendData); //Khi có lệnh Request thì sẽ thực thi hàm sendData
   Serial.println("Da san sang nhan lenh!");
 
-  pinMode(SENSOR_MH_D_PIN, INPUT);
+  attachInterrupt(0, flow, RISING); // Setup Interrupt
+  sei(); // Enable interrupts
+  
   pinMode(T_RELAY_PIN, OUTPUT);
 
   pinMode(LED_PIN, OUTPUT);
@@ -50,7 +72,7 @@ void setup() {
 }
 
 void loop() {
-  sCmd.readSerial();
+    sCmd.readSerial();
   // process and checking to watering
   //  wateringProcess();
 
@@ -85,6 +107,12 @@ void wateringProcess() {
   }
 }
 
+int getSensorWaterValue(){
+    l_hour = (flow_frequency * 60 / 7.5); 
+    // (Pulse frequency x 60 min) / 7.5Q = flowrate in L/hour
+    flow_frequency = 0; // Reset Counter
+    return l_hour;
+}
 int getSensorSampleValue() {
   int value = 0;
   int t = TIME_TO_GET_SAMPLE / SAMPLE_TIME;
@@ -132,25 +160,26 @@ void sendData() {
 
   if (bumperStatus==1){
     digitalWrite(T_RELAY_PIN, HIGH);
-    digitalWrite(LED_YEWLOW_PIN, HIGH);
   }else{
     digitalWrite(T_RELAY_PIN, LOW);
-     digitalWrite(LED_YEWLOW_PIN, LOW);
   }
 
   //lấy giá trị sensor
   int sensorValue = getSensorSampleValue();
   int percentageValue = map(sensorValue,1023,0,0,100);
+  int waterValue = getSensorWaterValue();
 
   StaticJsonBuffer<200> jsonBuffer2;
   JsonObject& root2 = jsonBuffer2.createObject();
   root2["Bumper value:"] = bumperStatus;
   root2["Sensor value:"] = percentageValue;
+  root2["Sensor water value:"] = waterValue;
 
   //Tạo một mảng trong JSON
   JsonArray& data = root2.createNestedArray("data");
   data.add(bumpStatus);
   data.add(percentageValue);
+  data.add(waterValue);
 
 
   //in ra cổng software serial để ESP8266 nhận
