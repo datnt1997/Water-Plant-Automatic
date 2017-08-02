@@ -1,0 +1,23 @@
+{
+  "name": "socketServer1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.4.1",
+    "express": "^4.14.1",
+    "ip": "^1.1.5",
+    "mongodb": "^2.2.30",
+    "node-schedule": "^1.2.3",
+    "socket.io": "^1.7.3",
+    "socketio-wildcard": "^2.0.0"
+  },
+  "devDependencies": {
+    "ip": "^1.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
