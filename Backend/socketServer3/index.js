@@ -99,7 +99,7 @@ esp8266_nsp.on('connection', function(socket) {
 
                         socket.on('LED_STATUS', function(status) {
                             //Nhận được thì in ra thôi hihi.
-                            console.log("recv LED", status)
+                            // console.log("recv LED", status)
                             // var myObj = JSON.parse(status);
                             chisoSensor = Number(status["Sensor value:"]);
                             chisoWater = Number(status["Sensor water value:"]);
@@ -168,13 +168,13 @@ esp8266_nsp.on('connection', function(socket) {
                         }
                         if (id == true && time == false && manual == false) {
                             esp8266_nsp.emit('Request', json3) //Gửi lệnh Request với các tham số của của chuỗi JSON
-                            console.log("bat may bom") //Ghi ra console.log là bật máy bơm
+                            console.log("Độ ẩm tưới") //Ghi ra console.log là bật máy bơm
                             androidapp_nsp.emit('status', "Watering");
 
                         }
                         if (id == false && time == false && manual == false) {
                             esp8266_nsp.emit('Request', json4) //Gửi lệnh LED với các tham số của của chuỗi JSON
-                            console.log("tat may bom") //Ghi ra console.log là tắt máy bơm
+                            console.log("Độ ẩm tắt") //Ghi ra console.log là tắt máy bơm
                             androidapp_nsp.emit('status', "Off");
                         }
 
@@ -380,20 +380,20 @@ androidapp_nsp.on('connection', function(socket) {
     });
 
     var fontChange = function() {
-                    if(action == true){
-                        //intervalId = setInterval(fontChange, 1000);
-                        secondAction += 1;
-                      console.log(secondAction);
-                    }
-                      
-                      if (action == false) {
-                        console.log("(-)");  
-                        }
-                    };
+        if (action == true) {
+            //intervalId = setInterval(fontChange, 1000);
+            secondAction += 1;
+            console.log(secondAction);
+        }
 
-       //if(manual == true){
-            intervalId = setInterval(fontChange, 1000);
-       //}            
+        if (action == false) {
+            console.log("(-)");
+        }
+    };
+
+    //if(manual == true){
+    intervalId = setInterval(fontChange, 1000);
+    //}            
 
     var manualsetting = setInterval(function() {
 
@@ -406,20 +406,20 @@ androidapp_nsp.on('connection', function(socket) {
 
         socket.on('manual', function(status) {
             if (status == "on") {
-                if (time) {
-                    startBump.cancel();
-                }
+                // if (time) {
+                //     startBump.cancel();
+                // }
                 manual = true;
                 action = true;
-                
+
                 socket.emit('BumperEnable', json3);
                 console.log("bat may bom");
 
-                
+
             } else {
-                if (time) {
-                    startBump.cancel();
-                }
+                // if (time) {
+                //     startBump.cancel();
+                // }
                 manual = false;
                 action = false;
                 socket.emit('BumperEnable', json4);
@@ -432,14 +432,15 @@ androidapp_nsp.on('connection', function(socket) {
             }
         })
 
-        console.log(manual + " " + id + " " + time);
-        if (manual == true && time == false && id == false) {
-            console.log(manual + " " + id + " " + time);
+        //console.log(manual + " " + id + " " + time);
+        if (manual == true) {
+            //console.log(manual + " " + id + " " + time);
             id = false;
             time = false;
             esp8266_nsp.emit('Request', json3) //Gửi lệnh LED với các tham số của của chuỗi JSON
         } else if (manual == false && time == false && id == false) {
-            console.log(manual + " " + id + " " + time);
+            //console.log(manual + " " + id + " " + time);
+            console.log("Manual tat");
             esp8266_nsp.emit('Request', json4) //Gửi lệnh LED với các tham số của của chuỗi JSON
         }
 
@@ -577,9 +578,10 @@ let Schedule = function() {
                                 esp8266_nsp.emit('Request', json3) //Gửi chuỗi JSON để bat máy bơm
                                 androidapp_nsp.emit('status', "Watering");
                                 if (manual) {
-                                    startBump.cancel();
-                                    console.log("Tat may bom");
+                                    console.log("Tat Time");
                                     console.log(id + " - " + time + " - " + manual);
+                                    time = false;
+                                    startBump.cancel();
                                 }
                             });
 
